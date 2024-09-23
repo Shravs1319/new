@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-23T19:10:56 IST" name="Suite" finished-at="2024-09-23T19:11:57 IST" duration-ms="61859">
+    <groups>
+    </groups>
+    <test started-at="2024-09-23T19:10:56 IST" name="Test" finished-at="2024-09-23T19:11:57 IST" duration-ms="61859">
+      <class name="scenarios.SwitchingWin">
+        <test-method signature="switchWin()[pri:0, instance:scenarios.SwitchingWin@7ed7259e]" started-at="2024-09-23T19:11:40 IST" name="switchWin" finished-at="2024-09-23T19:11:57 IST" duration-ms="17875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchWin -->
+      </class> <!-- scenarios.SwitchingWin -->
+      <class name="scenarios.RadioBtnsAndChkBoxes">
+        <test-method signature="radChk()[pri:0, instance:scenarios.RadioBtnsAndChkBoxes@15eb5ee5]" started-at="2024-09-23T19:10:56 IST" name="radChk" finished-at="2024-09-23T19:11:23 IST" duration-ms="27812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radChk -->
+      </class> <!-- scenarios.RadioBtnsAndChkBoxes -->
+      <class name="scenarios.HandlingDynData">
+        <test-method signature="dynData()[pri:0, instance:scenarios.HandlingDynData@3d51f06e]" started-at="2024-09-23T19:11:33 IST" name="dynData" finished-at="2024-09-23T19:11:40 IST" duration-ms="6969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynData -->
+      </class> <!-- scenarios.HandlingDynData -->
+      <class name="scenarios.MouseActions">
+        <test-method signature="dragAndDrop()[pri:0, instance:scenarios.MouseActions@481a996b]" started-at="2024-09-23T19:11:23 IST" name="dragAndDrop" finished-at="2024-09-23T19:11:33 IST" duration-ms="9149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+      </class> <!-- scenarios.MouseActions -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

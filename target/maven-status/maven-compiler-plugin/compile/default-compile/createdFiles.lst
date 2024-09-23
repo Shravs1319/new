@@ -1,0 +1,5 @@
+scenarios\HandlingDynData.class
+scenarios\MouseActions.class
+Proj001\MavenBMT\App.class
+scenarios\RadioBtnsAndChkBoxes.class
+scenarios\SwitchingWin.class
